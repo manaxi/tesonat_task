@@ -1,0 +1,6 @@
+C:\Users\manta\Desktop\tesonet_task\tesonet_task\obj\Debug\tesonet_task.csprojAssemblyReference.cache
+C:\Users\manta\Desktop\tesonet_task\tesonet_task\bin\Debug\tesonet_task.exe.config
+C:\Users\manta\Desktop\tesonet_task\tesonet_task\bin\Debug\tesonet_task.exe
+C:\Users\manta\Desktop\tesonet_task\tesonet_task\bin\Debug\tesonet_task.pdb
+C:\Users\manta\Desktop\tesonet_task\tesonet_task\obj\Debug\tesonet_task.exe
+C:\Users\manta\Desktop\tesonet_task\tesonet_task\obj\Debug\tesonet_task.pdb
